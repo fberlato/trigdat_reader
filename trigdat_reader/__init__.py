@@ -1,4 +1,4 @@
 
-from trig_reader import TrigReader
+from .trig_reader import TrigReader
 
 __all__ = ['TrigReader']
